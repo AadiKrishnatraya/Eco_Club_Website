@@ -1,0 +1,6 @@
+{
+  "name": "Eco Club — ABES Engineering College",
+  "description": "Official website of Eco Club at ABES Engineering College, Ghaziabad. Think. Act. Code. Work Greener.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
